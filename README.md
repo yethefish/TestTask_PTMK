@@ -2,6 +2,7 @@
 
 > [!TIP]
 > Для запуска: dotnet run
+> 
 > Перед запуском нужно изменить строку DefaultConnection в appsettings.json
 
 ## Общие требования:
